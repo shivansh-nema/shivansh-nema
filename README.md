@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Generative AI and Machine Learning**
 
-- 💬 Ask me about **Artificial Intelligence, Generative AI, LLM, Machine Learning, Deep Learning, Python, Java, Data Structures and Algorithms, React, Full Stack Web Development, UX/UI, Canva, Figma**
+- 💬 Ask me about **Artificial Intelligence, Generative AI, LLM, Machine Learning, Deep Learning, Data Science, Python, Java, Data Structures and Algorithms, React, Full Stack Web Development, UX/UI, Canva, Figma**
 
 - 📫 How to reach me **shivanshnema6264@gmail.com**
 
